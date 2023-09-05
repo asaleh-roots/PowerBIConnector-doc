@@ -17,5 +17,5 @@ PowerBI connector is a custom module that enable you to connect Odoo to powerBI.
 
 ### Pre-requisites: 
 - PowerBI account.
-- PowerBI custom connector.
+- PowerBI Odoo custom connector.
 
